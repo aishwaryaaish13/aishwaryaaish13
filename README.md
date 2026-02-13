@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img width="500" src="https://raw.githubusercontent.com/aishwaryaaish13/aishwaryaaish13/main/assets/developer.png" alt="Developer Coding" style="border-radius: 15px;"/>
+  <img width="500" src="https://raw.githubusercontent.com/aishwaryaaish13/aishwaryaaish13/main/ai-generated-8775232_1280.png" alt="Developer Coding" style="border-radius: 15px;"/>
 </div>
 
 <br>
